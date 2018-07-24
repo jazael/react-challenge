@@ -7,7 +7,7 @@
     "start": "webpack-dev-server --mode development --open --hot",
     "build": "webpack --mode production"
   },
-  "repository": "https://github.com/jazael/app-challenge.git",
+  "repository": "https://github.com/jazael/react-challenge.git",
   "author": "Miguel Faubla",
   "license": "MIT",
   "dependencies": {
